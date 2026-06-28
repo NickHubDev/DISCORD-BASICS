@@ -1,43 +1,34 @@
-# Curso Completo de Discord | Estructura Base
-
-
+# CURSO COMPLETO DE DISCORD BASICS
 
 # MÓDULO 1 · GANCHO O INICIO
 
----
-
 ## Objetivo
 
-Esta sección debería empezar con una frase gancho para que el espectador no cierre el video rápido.
+El video nos presenta la idea principal del curso para que entedamos que quiere llegar a demostar.
 
-> ¿Te has fijado en que, hoy en día, da igual si eres gamer, estudiante, programador, creador de contenido o simplemente formas parte de una comunidad? Tarde o temprano acabarás utilizando Discord.
+> **¿Te has fijado en que, hoy en día, da igual si eres gamer, estudiante, programador, creador de contenido o simplemente formas parte de una comunidad? Tarde o temprano acabarás utilizando Discord.**
 >
-> Y no solo para hablar con tus amigos. Empresas, proyectos de código abierto, universidades, comunidades de videojuegos e incluso equipos de trabajo organizan su día a día dentro de esta plataforma.
+> **Y no solo para hablar con tus amigos. Empresas, proyectos de código abierto, universidades, comunidades de videojuegos e incluso equipos de trabajo organizan su día a día dentro de esta plataforma.**
 >
-> Pero... ¿por qué?
+> **Pero... ¿por qué?**
 >
-> ¿Qué tiene Discord para haberse convertido en el estándar cuando existen decenas de aplicaciones para comunicarse?
+> **¿Qué tiene Discord para haberse convertido en el estándar cuando existen decenas de aplicaciones para comunicarse?**
 >
-> Y, sobre todo, ¿cómo funciona realmente?
+> **Y, sobre todo, ¿cómo funciona realmente?**
 >
-> En este vídeo no solo vas a aprender a usar Discord. Cuando termines, entenderás por qué está diseñado de la forma en que está y cómo aprovechar prácticamente todas las funciones de su interfaz.
+> **En este vídeo no solo vas a aprender a usar Discord. Cuando termines, entenderás por qué está diseñado de la forma en que está y cómo aprovechar prácticamente todas las funciones de su interfaz.**
 
-Una vez logrado el gancho pasaremos a lo que considero más importante de todo.
-
-
+Una vez se presenta el curso, pasamos a lo que se considera esencial.
 
 # MÓDULO 2 · HISTORIA DE DISCORD
-
----
 
 ## Objetivo
 
 Lo importante de este apartado es que se resalten los puntos clave porque se creo Discord y para que publicó.
+Todo esta explicado a detalle y aunque no es lo MÁS IMPORTANTE, sí que es interesante conocer la historia de este app.
 
 
 # MÓDULO 3 · ANATOMÍA DE DISCORD
-
----
 
 ## Objetivo
 
@@ -47,10 +38,6 @@ En este apartado lo importante es dejar claro que hace cada cosa que apreciamos 
 * **Barra interior izquierda:** Lista de Categorías y Canales.
 * **Centro:** Centro de Mensajería o Chat del Canal.
 * **Barra derecha (Escondida):** Usuarios del servidor.
-
----
-
-También estaría bien usar el esquema visual en estilo `.md` para mostrar la organización de cada apartado de Discord para que el usuario tenga una referencia técnica además de visual.
 
 ### Ejemplo
 
@@ -71,11 +58,7 @@ Discord
 └── Ajustes de Usuario
 ```
 
-
-
 # MÓDULO 4 · EL "USER" O CUENTA DEL USUARIO
-
----
 
 ## Objetivo
 
@@ -97,8 +80,6 @@ Con este apartado, lo que buscamos es que el usuario entienda para que sirve cad
 
 # MÓDULO 5 · COMUNIDADES Y SERVIDORES / CATEGORÍAS
 
----
-
 ## Objetivo
 
 En este módulo daremos las bases de los servidores y comunidades, llegando hasta las configuraciones básicas y esenciales de este, los apartados que tocaremos serán:
@@ -114,11 +95,7 @@ En este módulo daremos las bases de los servidores y comunidades, llegando hast
 * Organización
 * Configuración básica
 
-
-
 # MÓDULO 6 · CANALES
-
----
 
 ## Objetivo
 
@@ -164,11 +141,7 @@ Servidor
     └── 💬 Preguntas y respuestas
 ```
 
-
-
 # MÓDULO 7 · ROLES
-
----
 
 ## Objetivo
 
@@ -202,11 +175,7 @@ Lo separaremos de manera básica en:
 └── 👤 Miembro
 ```
 
-
-
 # MÓDULO 8 · PERMISOS
-
----
 
 ## Objetivo
 
@@ -241,8 +210,6 @@ Servidor
 ```
 
 # MÓDULO 9 · MENSAJERÍA
-
----
 
 ## Objetivo
 
@@ -294,8 +261,6 @@ console.log("Discord");
 
 # MÓDULO 10 · COMUNICACIÓN
 
----
-
 ## Objetivo
 
 En este módulo aprenderemos a usar canales de voz, audio, video en su máximo esplendor, tocaremos los siguientes puntos:
@@ -327,8 +292,6 @@ Canal de Voz
 ```
 
 # MÓDULO 11 · CONFIGURACIÓN
-
----
 
 ## Objetivo
 
@@ -371,8 +334,6 @@ Si al inicio el usuario aprendio a personalizar su perfil de manera básica, aho
 
 # MÓDULO 12 · HERRAMIENTAS PARA COMUNIDADES
 
----
-
 ## Objetivo
 
 En este módulo finalmente mostraremos todo lo que son capaces de hacer las herramientas de comunidad como INTEGRACIONES COMO DISCOHOOK:
@@ -390,8 +351,6 @@ En este módulo finalmente mostraremos todo lo que son capaces de hacer las herr
 * Bienvenida
 * Screening
 * Onboarding
-
-
 
 Muchas de estas posibilidades se verán más a fondo el curso de **BOTS PARA PRINCIPIANTES (SIN PROGRAMACIÓN).**
 
@@ -412,8 +371,6 @@ Comunidad
 ```
 
 # MÓDULO 13 · NITRO
-
----
 
 ## Objetivo
 
@@ -452,8 +409,6 @@ Discord
 
 # MÓDULO 14 · CASOS DE USO
 
----
-
 ## Objetivo
 
 Y por último cerramos con unas demostraciones para que el usuario tenga una idea visual total de todo lo que puede lograrse con lo aprendido en diferentes comunidades de Discord.
@@ -487,8 +442,6 @@ Discord
 ```
 
 # MÓDULO 15 · ERRORES COMUNES
-
----
 
 ## Objetivo
 
@@ -547,8 +500,6 @@ Servidor
 ```
 
 # MÓDULO 16 · RETO FINAL
-
----
 
 ## Objetivo
 
@@ -611,5 +562,3 @@ Curso de Discord.py
             ├── Base de Datos
             └── Despliegue 24/7
 ```
-
-
